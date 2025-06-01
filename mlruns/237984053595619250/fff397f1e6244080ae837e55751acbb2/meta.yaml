@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/fff397f1e6244080ae837e55751acbb2/artifacts
+end_time: 1748763677860
+entry_point_name: ''
+experiment_id: '237984053595619250'
+lifecycle_stage: active
+run_id: fff397f1e6244080ae837e55751acbb2
+run_name: SVM_Hyperparameter_Tuning
+run_uuid: fff397f1e6244080ae837e55751acbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748763212352
+status: 3
+tags: []
+user_id: ASUS

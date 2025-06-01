@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/b94e27d034f24dcebb3b0bdcd17b1d64/artifacts
+end_time: 1748762559705
+entry_point_name: ''
+experiment_id: '237984053595619250'
+lifecycle_stage: active
+run_id: b94e27d034f24dcebb3b0bdcd17b1d64
+run_name: Baseline_Models_Comparison
+run_uuid: b94e27d034f24dcebb3b0bdcd17b1d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762518304
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748766203135
+current_stage: None
+description: ''
+last_updated_timestamp: 1748766203135
+name: XGBoost
+run_id: 871e12d925a34099bb13dfd1ba3eec49
+run_link: ''
+source: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/871e12d925a34099bb13dfd1ba3eec49/artifacts/best_xgb_model
+status: READY
+status_message: null
+storage_location: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/871e12d925a34099bb13dfd1ba3eec49/artifacts/best_xgb_model
+user_id: null
+version: 1

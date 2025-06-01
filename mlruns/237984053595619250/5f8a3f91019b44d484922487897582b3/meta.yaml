@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/5f8a3f91019b44d484922487897582b3/artifacts
+end_time: 1748762782812
+entry_point_name: ''
+experiment_id: '237984053595619250'
+lifecycle_stage: active
+run_id: 5f8a3f91019b44d484922487897582b3
+run_name: Baseline_Decision_Tree
+run_uuid: 5f8a3f91019b44d484922487897582b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762778242
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/454b8178ef434f00b7f53322001be194/artifacts
+end_time: 1748762559686
+entry_point_name: ''
+experiment_id: '237984053595619250'
+lifecycle_stage: active
+run_id: 454b8178ef434f00b7f53322001be194
+run_name: Baseline_XGBoost
+run_uuid: 454b8178ef434f00b7f53322001be194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762552073
+status: 3
+tags: []
+user_id: ASUS

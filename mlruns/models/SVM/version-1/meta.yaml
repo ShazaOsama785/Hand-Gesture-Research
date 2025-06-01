@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748766112422
+current_stage: None
+description: ''
+last_updated_timestamp: 1748766112422
+name: SVM
+run_id: c19eda32d51541c3b34b448446be32af
+run_link: ''
+source: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/c19eda32d51541c3b34b448446be32af/artifacts/production_model
+status: READY
+status_message: null
+storage_location: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/c19eda32d51541c3b34b448446be32af/artifacts/production_model
+user_id: null
+version: 1

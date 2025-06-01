@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Hand_Gesture/Hand-Gesture-Research/mlruns/237984053595619250/871e12d925a34099bb13dfd1ba3eec49/artifacts
+end_time: 1748764435542
+entry_point_name: ''
+experiment_id: '237984053595619250'
+lifecycle_stage: active
+run_id: 871e12d925a34099bb13dfd1ba3eec49
+run_name: XGBoost_Hyperparameter_Tuning
+run_uuid: 871e12d925a34099bb13dfd1ba3eec49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748764294275
+status: 3
+tags: []
+user_id: ASUS
