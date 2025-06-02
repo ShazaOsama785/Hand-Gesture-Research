@@ -78,7 +78,7 @@ cd research
 ### 2. Setup environment:
 pip install -r requirements.txt
 
-###3. Run training script:
+### 3. Run training script:
 bash
 python train.py
 
