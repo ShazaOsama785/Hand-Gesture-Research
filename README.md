@@ -84,5 +84,5 @@ python train.py
 
 This runs preprocessing, trains multiple models, logs results in MLflow, and saves the best model (svm_model.pkl).
 
-4. Use the trained model in backend API:
+### 4. Use the trained model in backend API:
 Load the saved SVM model for inference to classify hand gestures and control maze navigation.
